@@ -80,10 +80,10 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
     - "Telefonou para a vítima?"
     - "Esteve no local do crime?"
     - "Mora perto da vítima?"
-		- "Devia para a vítima?"
-		- "Já trabalhou com a vítima?" O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", 
+    - "Devia para a vítima?"
+    - "Já trabalhou com a vítima?" O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", 
        entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
-27) Um posto está vendendo combustíveis com a seguinte tabela de descontos:
+26) Um posto está vendendo combustíveis com a seguinte tabela de descontos:
     - Álcool;
     - até 20 litros, desconto de 3% por litro;
     - acima de 20 litros, desconto de 5% por litro;
@@ -91,12 +91,12 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
     - até 20 litros, desconto de 4% por litro;
     - acima de 20 litros, desconto de 6% por litro Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser 
       pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90.
-28) Uma fruteira está vendendo frutas com a seguinte tabela de preços:
-    Exemplo: Até 5 Kg           Acima de 5 Kg
-Morango    R$ 2,50 por Kg          R$ 2,20 por Kg
-Maçã       R$ 1,80 por Kg          R$ 1,50 por Kg
+27) Uma fruteira está vendendo frutas com a seguinte tabela de preços:
+	Exemplo: Até 5 Kg           Acima de 5 Kg
+	Morango    R$ 2,50 por Kg          R$ 2,20 por Kg
+	Maçã       R$ 1,80 por Kg          R$ 1,50 por Kg
 Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.
-29) O Hipermercado Tabajara está com uma promoção de carnes que é imperdível. Confira:
+28) O Hipermercado Tabajara está com uma promoção de carnes que é imperdível. Confira:
     	Exemplo:
                  Até 5 Kg           Acima de 5 Kg
 File Duplo      R$ 4,90 por Kg          R$ 5,80 por Kg
