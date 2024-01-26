@@ -73,17 +73,17 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
 22) Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).
 23) Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento.
 24) Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
-    	- par ou ímpar;
-    	- positivo ou negativo;
-    	- inteiro ou decimal.
+		- par ou ímpar;
+    - positivo ou negativo;
+    - inteiro ou decimal.
 25) Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
-    	- "Telefonou para a vítima?"
-    	- "Esteve no local do crime?"
-    	- "Mora perto da vítima?"
-    	- "Devia para a vítima?"
-    	- "Já trabalhou com a vítima?" O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", 
-           entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
-26) Um posto está vendendo combustíveis com a seguinte tabela de descontos:
+    - "Telefonou para a vítima?"
+    - "Esteve no local do crime?"
+    - "Mora perto da vítima?"
+		- "Devia para a vítima?"
+		- "Já trabalhou com a vítima?" O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", 
+       entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
+27) Um posto está vendendo combustíveis com a seguinte tabela de descontos:
     - Álcool;
     - até 20 litros, desconto de 3% por litro;
     - acima de 20 litros, desconto de 5% por litro;
