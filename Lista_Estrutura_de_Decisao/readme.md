@@ -24,34 +24,34 @@ Lista Estrutura de Decisao
 		 	- o valor do aumento;
 			- o novo salário, após o aumento.
 **12)** Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês.
-						Desconto do IR:
-					-	Salário Bruto até 900 (inclusive) - isento
-		 			-	Salário Bruto até 1500 (inclusive) - desconto de 5%
-					-	Salário Bruto até 2500 (inclusive) - desconto de 10%
-		 			- Salário Bruto acima de 2500 - desconto de 20% Imprima na tela as informações, dispostas conforme o exemplo abaixo. No exemplo o valor da hora é 5 e a quantidade de hora é 220.
-			Exemplo:
-			   Salário Bruto: (5 * 220)        : R$ 1100,00
-        (-) IR (5%)                     : R$   55,00  
-        (-) INSS ( 10%)                 : R$  110,00
-        FGTS (11%)                      : R$  121,00
-        Total de descontos              : R$  165,00
-        Salário Liquido                 : R$  935,00
+		Desconto do IR:
+		 - Salário Bruto até 900 (inclusive) - isento
+		 - Salário Bruto até 1500 (inclusive) - desconto de 5%
+		 - Salário Bruto até 2500 (inclusive) - desconto de 10%
+		 - Salário Bruto acima de 2500 - desconto de 20% Imprima na tela as informações, dispostas conforme o exemplo abaixo. No exemplo o valor da hora é 5 e a quantidade de hora é 220.
+		Exemplo:
+		 Salário Bruto: (5 * 220)        : R$ 1100,00
+                 (-) IR (5%)                     : R$   55,00  
+                 (-) INSS ( 10%)                 : R$  110,00
+                 FGTS (11%)                      : R$  121,00
+                 Total de descontos              : R$  165,00
+                 Salário Liquido                 : R$  935,00
 **13)** Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
 **14)** JFaça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
-			Exemplo:
-	 			 Média de Aproveitamento  Conceito
- 						 Entre 9.0 e 10.0        A
-  					 Entre 7.5 e 9.0         B
-  					 Entre 6.0 e 7.5         C
- 						 Entre 4.0 e 6.0         D
- 						 Entre 4.0 e zero        E
-				O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
+	        Exemplo:
+	 	 Média de Aproveitamento  Conceito
+ 		     Entre 9.0 e 10.0        A
+  		     Entre 7.5 e 9.0         B
+  		     Entre 6.0 e 7.5         C
+ 		     Entre 4.0 e 6.0         D
+ 		     Entre 4.0 e zero        E
+O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
 **15)** Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
     	Dicas:
-		 	-	Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
-			- Triângulo Equilátero: três lados iguais;
-	 		- Triângulo Isósceles: quaisquer dois lados iguais;
-			- Triângulo Escaleno: três lados diferentes;
+	 - Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
+	 - Triângulo Equilátero: três lados iguais;
+	 - Triângulo Isósceles: quaisquer dois lados iguais;
+	 - Triângulo Escaleno: três lados diferentes;
 16) Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da
   tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades
   de latas de tinta a serem compradas e o preço total.
