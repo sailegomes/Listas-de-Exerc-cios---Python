@@ -58,4 +58,12 @@ O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e
          - Se o delta calculado for igual a zero a equação possui apenas uma raiz real; informe-a ao usuário;
          - Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário;
 17) Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.
-18)Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.
+18) Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.
+19) Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.
+Observando os termos no plural a colocação do "e", da vírgula entre outros. Exemplo:
+	- 326 = 3 centenas, 2 dezenas e 6 unidades;
+ 	- 12 = 1 dezena e 2 unidades Testar com: 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11, 1, 7 e 16.
+20) Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar.
+     	- A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média alcançada;
+	- A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada;
+	- A mensagem "Aprovado com Distinção", se a média for igual a 10.
