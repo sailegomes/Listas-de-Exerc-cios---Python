@@ -21,3 +21,6 @@
   - 5 X 2 = 10
   -  ...
   - 5 X 10 = 50
+13) Faça um programa que peça dois números, base e expoente, calcule e mostre o primeiro número elevado ao segundo número. Não utilize a função de potência da linguagem.
+14) Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.
+
