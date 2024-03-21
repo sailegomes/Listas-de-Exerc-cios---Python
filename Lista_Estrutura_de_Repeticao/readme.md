@@ -118,8 +118,25 @@ Panificadora Pão de Ontem - Tabela de preços
  -  5 - Voto Nulo
  -  6 - Voto em Branco
  - Faça um programa que calcule e mostre:
- - O total de votos para cada candidato;
- - O total de votos nulos;
- - O total de votos em branco;
- - A percentagem de votos nulos sobre o total de votos;
- - A percentagem de votos em branco sobre o total de votos. Para finalizar o conjunto de votos tem-se o valor zero.
+ a) O total de votos para cada candidato;
+ b) O total de votos nulos;
+ c) O total de votos em branco;
+ d) A percentagem de votos nulos sobre o total de votos;
+ e) A percentagem de votos em branco sobre o total de votos. Para finalizar o conjunto de votos tem-se o valor zero.
+45) Desenvolver um programa para verificar a nota do aluno em uma prova com 10 questões, o programa deve perguntar ao aluno a resposta de cada questão e ao final comparar com o gabarito da prova e assim calcular o total de acertos e a nota (atribuir 1 ponto por resposta certa). Após cada aluno utilizar o sistema deve ser feita uma pergunta se outro aluno vai utilizar o sistema. Após todos os alunos terem respondido informar:
+ - Maior e Menor Acerto;
+ - Total de Alunos que utilizaram o sistema;
+ - A Média das Notas da Turma.
+   Gabarito da Prova:
+   Gabarito da Prova:
+01 - A
+02 - B
+03 - C
+04 - D
+05 - E
+06 - E
+07 - D
+08 - C
+09 - B
+10 - A
+Após concluir isto você poderia incrementar o programa permitindo que o professor digite o gabarito da prova antes dos alunos usarem o programa.
