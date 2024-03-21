@@ -129,15 +129,15 @@ Panificadora Pão de Ontem - Tabela de preços
  - A Média das Notas da Turma.
    Gabarito da Prova:
    Gabarito da Prova:
- 01 - A
- 02 - B
- 03 - C
- 04 - D
- 05 - E
- 06 - E
- 07 - D
- 08 - C
- 09 - B
- 10 - A
+  - 01 - A
+  - 02 - B
+  - 03 - C
+  - 04 - D
+  - 05 - E
+  - 06 - E
+  - 07 - D
+  - 08 - C
+  - 09 - B
+  - 10 - A
  Após concluir isto você poderia incrementar o programa permitindo que o professor digite o gabarito da prova antes dos 
  alunos usarem o programa.
